@@ -150,7 +150,7 @@ src/
 
 ## 🙌 Contributors
 
-* [Walid Hasan](https://github.com/tharunkumarsurya)
+* [Tharun Kumar Surya](https://github.com/tharunkumarsurya)
 
 ---
 
